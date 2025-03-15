@@ -92,7 +92,9 @@ tqdm
 
 Below is an example of the application output:
 
-![Example Output](assets/example.jpeg)
+![Example Output](assets/example.png)
+
+I guess which is not correct tho :( 
 
 ## Future Improvements
 Add support for multiple faces in a single image.
