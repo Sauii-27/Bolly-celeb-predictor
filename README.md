@@ -88,6 +88,12 @@ tqdm
 2.The application will detect the face, extract its features, and compare them with the celebrity database.
 3.The predicted Bollywood celebrity will be displayed along with their image.
 
+## Example Output
+
+Below is an example of the application output:
+
+![Example Output](assets/example.jpeg)
+
 ## Future Improvements
 Add support for multiple faces in a single image.
 Improve accuracy by fine-tuning the VGGFace model on Bollywood celebrity data.
